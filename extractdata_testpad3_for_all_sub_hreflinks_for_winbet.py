@@ -13,7 +13,7 @@ import urllib2
 import re
 import csv
 
-
+# checkout by master @ 3:42PM / dated - Feb 5, 2018
 def test_getwebdata():
 	# site tested >> https://www.bct6686.co , https://winbet.cc/index.php?m=index , https://www.8848bo.com	
 	html = '''
